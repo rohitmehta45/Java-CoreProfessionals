@@ -3,7 +3,7 @@ Print the average of three numbers entered by the user by creating a class named
 having a method to calculate and print the average.
 */
 
-package exercise2nd;
+package org.example.coreprofessional.exercise2nd;
 
 import java.util.Scanner;
 

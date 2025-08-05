@@ -5,7 +5,7 @@ method named as 'getArea' returns the area of the rectangle. Length and breadth 
 entered through the keyboard.
 */
 
-package exercise2nd;
+package org.example.coreprofessional.exercise2nd;
 
 import java.util.Scanner;
 

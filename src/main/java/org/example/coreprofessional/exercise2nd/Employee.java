@@ -7,7 +7,7 @@ Sam                2000                68D- WallsStreat
 John                1999                26B- WallsStreat
 */
 
-package exercise2nd;
+package org.example.coreprofessional.exercise2nd;
 
 public class Employee {
     String name;

@@ -3,7 +3,7 @@ Print the sum, difference and product of two numbers by creating a class named '
 with separate methods for each operation whose real and imaginary parts are entered by the user.
 */
 
-package exercise2nd;
+package org.example.coreprofessional.exercise2nd;
 
 import java.util.Scanner;
 

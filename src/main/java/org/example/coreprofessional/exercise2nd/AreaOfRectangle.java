@@ -4,7 +4,7 @@ by creating a class named 'Rectangle' with a method named 'Area' which returns t
 length and breadth passed as parameters to its constructor.
 */
 
-package exercise2nd;
+package org.example.coreprofessional.exercise2nd;
 
 public class AreaOfRectangle {
     int length;

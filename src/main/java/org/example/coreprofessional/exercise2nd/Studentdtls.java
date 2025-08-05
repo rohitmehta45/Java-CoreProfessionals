@@ -3,7 +3,7 @@
  objects of class 'Student'.
  */
 
-package exercise2nd;
+package org.example.coreprofessional.exercise2nd;
 public class Studentdtls {
     String name;
     int rollNo;

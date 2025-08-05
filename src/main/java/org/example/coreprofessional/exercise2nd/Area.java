@@ -5,7 +5,7 @@ values of its length and breadth as parameters of its constructor and having a m
 entered through the keyboard.
 */
 
-package exercise2nd;
+package org.example.coreprofessional.exercise2nd;
 
 import java.util.Scanner;
 

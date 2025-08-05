@@ -3,7 +3,7 @@ variable roll_no. Assign the value of roll_no as 2 and that of name as
 "John" by creating an object of the class Student.
  */
 
-package exercise2nd;
+package org.example.coreprofessional.exercise2nd;
 
 public class Student {
     String name;

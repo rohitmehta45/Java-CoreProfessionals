@@ -4,7 +4,7 @@ Each distance has two parts: feet and inches.
 If inches are 12 or more after addition, convert to feet accordingly.
 */
 
-package exercise2nd;
+package org.example.coreprofessional.exercise2nd;
 
 import java.util.Scanner;
 

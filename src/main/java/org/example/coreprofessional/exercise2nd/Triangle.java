@@ -4,7 +4,7 @@ by creating a class named 'Triangle' without any parameter in its constructor.
 Area = sqrt(s *(s-side1)*(s-side2)*(s-side3))
 */
 
-package exercise2nd;
+package org.example.coreprofessional.exercise2nd;
 
 public class Triangle {
     int side1, side2, side3;
